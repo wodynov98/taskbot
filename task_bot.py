@@ -16,7 +16,7 @@ from aiogram.enums import ChatType
 import aiosqlite
 
 # ========== КОНФИГУРАЦИЯ ==========
-BOT_TOKEN = "8878224142:AAGQNBQk3xxbLaZA415rYHRXon9CudHRrQk"  # ← ВСТАВЬТЕ СЮДА ТОКЕН
+BOT_TOKEN = "8878224142:AAH_KpHFQiQ3zqHvvtAf2tWo7kfDX2uOwFs"  # ← ВСТАВЬТЕ СЮДА ТОКЕН
 
 # ========== НАСТРОЙКА ЛОГИРОВАНИЯ ==========
 logging.basicConfig(
